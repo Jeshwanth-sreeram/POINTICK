@@ -26,8 +26,4 @@ Users can move the cursor, click, drag, and scroll using hand movements and flex
   - 1 Raspberry Pi Pico W
   - 1 USB Connection to PC
  
-## Contributor
-- @Dalisha2005
-- @Smit-bit
-- @ShantanuBarai
-- @Jeshwanth-Sreeram
+
