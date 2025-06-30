@@ -11,6 +11,7 @@ Users can move the cursor, click, drag, and scroll using hand movements and flex
 ## Hardware Requirements
 - **Hand Glove**:
 
+
   - 1 Raspberry Pi Pico W
   - 3 Flex Sensors (Index & Middle Finger)
   - MPU6050 (Accelerometer + Gyroscope)
